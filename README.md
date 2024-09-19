@@ -53,28 +53,24 @@
 </p>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Backend</h3><a id="user-content-backend" class="anchor" aria-label="Permalink: Backend" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
-  <a href="https://nodejs.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/49d33548e3f9d30d38d422b640f5e09763f4021771324424fc5938482f2b093c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" alt="nodejs" data-canonical-src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+ <a href="https://nestjs.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" style="max-width: 100%;">
+</a>
+<a href="https://expressjs.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="max-width: 100%;">
+</a>
+<a href="https://laravel.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="max-width: 100%;">
+</a>
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873fc26fd2b50888580207bdc2d1358618bc8ec44f7b3beee21b9fa742bba010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465"><img alt="d3js" src="https://camo.githubusercontent.com/873fc26fd2b50888580207bdc2d1358618bc8ec44f7b3beee21b9fa742bba010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"></a>
   
-  <a href="https://expressjs.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/0c70e89f06647bd1e0aff1ebb344ad9ed1c785e00dd7962e3e52f4450751df2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="express" data-canonical-src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;">
-    </a><a href="https://spring.io/" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/d2576b2d08de3355cdfb2c719e869c2577a72f562cb37ac022ec6ec3172833ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67253230494f432d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="spring" data-canonical-src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://spring.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/240a1912cc2490df62ce7486b49ebc0b1b7db97b40917d48cb5806dbc376450e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67253230626f6f742d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465" alt="spring Boot" data-canonical-src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://graphql.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/de546593ec4b8e10bfd09ae9458b205cd9b51439473f5606d4f6bfcbeccf2c3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6772617068716c2d4531303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" alt="graphql" data-canonical-src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;">
-  </a>
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1eebf3bf43bc8f53106e89e9ce941cce0c4e525366e4051bb0e46241c9e5a776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"><img alt="NestJs" src="https://camo.githubusercontent.com/1eebf3bf43bc8f53106e89e9ce941cce0c4e525366e4051bb0e46241c9e5a776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.nginx.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/8dacb4da6bbb3a04e84151a7044e331fb7ffb67880325b0910734c3cd23081d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e67696e782d3030393633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465" alt="nginx" data-canonical-src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+  
+  
+  
+  
+  
+  
 </p>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Database</h3><a id="user-content-database" class="anchor" aria-label="Permalink: Database" href="#database"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">

@@ -27,12 +27,8 @@
       <a href="https://angular.com" rel="nofollow">
   <img alt="angular" src="https://camo.githubusercontent.com/7baac962cd7a7429fe101d482c8c6c6bc5a5626c834dc4264a45ae4c039a04fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67756c6172266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&amp;logo=Angular&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://babeljs.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b2ee1da4bcc6b9dab5fca64ef0f89dd50eee8d7a12841a5562f282a3c15835e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626162656c2d4639444333452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b" alt="babel" data-canonical-src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&amp;logo=babel&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://bulma.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a9dced73783bebef6351ad92b0aeda16bf237780877e174bdd0de1eb3a369618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62756c6d612d3030443142322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62756c6d61266c6f676f436f6c6f723d7768697465" alt="bulma" data-canonical-src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+ 
+  
   <a href="https://www.gatsbyjs.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/aa8723f0a7eb5427fdc1b743616acaf45a529d581a608d0c2e630cb4081f3eaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6761747362796a732d3636333339392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465" alt="gatsby" data-canonical-src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" style="max-width: 100%;">
   </a>

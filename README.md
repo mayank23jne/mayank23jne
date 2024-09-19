@@ -1,142 +1,155 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Languages</h3><a id="user-content-languages" class="anchor" aria-label="Permalink: Languages" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-   
-   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-2-1174936.png?f=webp"/>
-   <img src="https://w7.pngwing.com/pngs/564/866/png-transparent-php-computer-icons-scripting-language-others-miscellaneous-blue-text-thumbnail.png"/>
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="url(#a)" d="M0 64c0 18.593 28.654 33.667 64 33.667 35.346 0 64-15.074 64-33.667 0-18.593-28.655-33.667-64-33.667C28.654 30.333 0 45.407 0 64Z"/><path fill="#777bb3" d="M64 95.167c33.965 0 61.5-13.955 61.5-31.167 0-17.214-27.535-31.167-61.5-31.167S2.5 46.786 2.5 64c0 17.212 27.535 31.167 61.5 31.167Z"/><path d="M34.772 67.864c2.793 0 4.877-.515 6.196-1.53 1.306-1.006 2.207-2.747 2.68-5.175.44-2.27.272-3.854-.5-4.71-.788-.874-2.493-1.317-5.067-1.317h-4.464l-2.473 12.732zM20.173 83.547a.694.694 0 0 1-.68-.828l6.557-33.738a.695.695 0 0 1 .68-.561h14.134c4.442 0 7.748 1.206 9.827 3.585 2.088 2.39 2.734 5.734 1.917 9.935-.333 1.711-.905 3.3-1.7 4.724a15.818 15.818 0 0 1-3.128 3.92c-1.531 1.432-3.264 2.472-5.147 3.083-1.852.604-4.232.91-7.07.91h-5.724l-1.634 8.408a.695.695 0 0 1-.682.562z"/><path fill="#fff" d="M34.19 55.826h3.891c3.107 0 4.186.682 4.553 1.089.607.674.723 2.097.331 4.112-.439 2.257-1.253 3.858-2.42 4.756-1.194.92-3.138 1.386-5.773 1.386h-2.786l2.205-11.342zm6.674-8.1H26.731a1.39 1.39 0 0 0-1.364 1.123L18.81 82.588a1.39 1.39 0 0 0 1.363 1.653h7.35a1.39 1.39 0 0 0 1.363-1.124l1.525-7.846h5.151c2.912 0 5.364-.318 7.287-.944 1.977-.642 3.796-1.731 5.406-3.237a16.522 16.522 0 0 0 3.259-4.087c.831-1.487 1.429-3.147 1.775-4.931.86-4.423.161-7.964-2.076-10.524-2.216-2.537-5.698-3.823-10.349-3.823zM30.301 68.557h4.471c2.963 0 5.17-.557 6.62-1.675 1.451-1.116 2.428-2.98 2.938-5.591.485-2.508.264-4.277-.665-5.308-.931-1.03-2.791-1.546-5.584-1.546h-5.036l-2.743 14.12m10.563-19.445c4.252 0 7.353 1.117 9.303 3.348 1.95 2.232 2.536 5.347 1.76 9.346-.322 1.648-.863 3.154-1.625 4.518-.764 1.366-1.76 2.614-2.991 3.747-1.468 1.373-3.097 2.352-4.892 2.935-1.794.584-4.08.875-6.857.875h-6.296l-1.743 8.97h-7.35l6.558-33.739h14.133"/><path d="M69.459 74.577a.694.694 0 0 1-.682-.827l2.9-14.928c.277-1.42.209-2.438-.19-2.87-.245-.263-.979-.704-3.15-.704h-5.256l-3.646 18.768a.695.695 0 0 1-.683.56h-7.29a.695.695 0 0 1-.683-.826l6.558-33.739a.695.695 0 0 1 .682-.561h7.29a.695.695 0 0 1 .683.826L64.41 48.42h5.653c4.307 0 7.227.758 8.928 2.321 1.733 1.593 2.275 4.14 1.608 7.573l-3.051 15.702a.695.695 0 0 1-.682.56h-7.407z"/><path fill="#fff" d="M65.31 38.755h-7.291a1.39 1.39 0 0 0-1.364 1.124l-6.557 33.738a1.39 1.39 0 0 0 1.363 1.654h7.291a1.39 1.39 0 0 0 1.364-1.124l3.537-18.205h4.682c2.168 0 2.624.463 2.641.484.132.14.305.795.019 2.264l-2.9 14.927a1.39 1.39 0 0 0 1.364 1.654h7.408a1.39 1.39 0 0 0 1.363-1.124l3.051-15.7c.715-3.686.103-6.45-1.82-8.217-1.836-1.686-4.91-2.505-9.398-2.505h-4.81l1.421-7.315a1.39 1.39 0 0 0-1.364-1.655zm0 1.39-1.743 8.968h6.496c4.087 0 6.907.714 8.457 2.14 1.553 1.426 2.017 3.735 1.398 6.93l-3.052 15.699h-7.407l2.901-14.928c.33-1.698.208-2.856-.365-3.474-.573-.617-1.793-.926-3.658-.926h-5.829l-3.756 19.327H51.46l6.558-33.739h7.292z"/><path d="M92.136 67.864c2.793 0 4.878-.515 6.198-1.53 1.304-1.006 2.206-2.747 2.679-5.175.44-2.27.273-3.854-.5-4.71-.788-.874-2.493-1.317-5.067-1.317h-4.463l-2.475 12.732zM77.54 83.547a.694.694 0 0 1-.682-.828l6.557-33.738a.695.695 0 0 1 .682-.561H98.23c4.442 0 7.748 1.206 9.826 3.585 2.089 2.39 2.734 5.734 1.917 9.935a15.878 15.878 0 0 1-1.699 4.724 15.838 15.838 0 0 1-3.128 3.92c-1.53 1.432-3.265 2.472-5.147 3.083-1.852.604-4.232.91-7.071.91h-5.723l-1.633 8.408a.695.695 0 0 1-.683.562z"/><path fill="#fff" d="M91.555 55.826h3.891c3.107 0 4.186.682 4.552 1.089.61.674.724 2.097.333 4.112-.44 2.257-1.254 3.858-2.421 4.756-1.195.92-3.139 1.386-5.773 1.386h-2.786l2.204-11.342zm6.674-8.1H84.096a1.39 1.39 0 0 0-1.363 1.123l-6.558 33.739a1.39 1.39 0 0 0 1.364 1.653h7.35a1.39 1.39 0 0 0 1.363-1.124l1.525-7.846h5.15c2.911 0 5.364-.318 7.286-.944 1.978-.642 3.797-1.731 5.408-3.238a16.52 16.52 0 0 0 3.258-4.086c.832-1.487 1.428-3.147 1.775-4.931.86-4.423.162-7.964-2.076-10.524-2.216-2.537-5.697-3.823-10.35-3.823zM87.666 68.557h4.47c2.964 0 5.17-.557 6.622-1.675 1.45-1.116 2.428-2.98 2.936-5.591.487-2.508.266-4.277-.665-5.308-.93-1.03-2.791-1.546-5.583-1.546h-5.035Zm10.563-19.445c4.251 0 7.354 1.117 9.303 3.348 1.95 2.232 2.537 5.347 1.759 9.346-.32 1.648-.862 3.154-1.624 4.518-.763 1.366-1.76 2.614-2.992 3.747-1.467 1.373-3.097 2.352-4.892 2.935-1.793.584-4.078.875-6.856.875h-6.295l-1.745 8.97h-7.35l6.558-33.739h14.133"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(84.04136 0 0 84.04136 38.426 42.169)" gradientUnits="userSpaceOnUse"><stop stop-color="#AEB2D5"/><stop offset=".3" stop-color="#AEB2D5"/><stop offset=".75" stop-color="#484C89"/><stop offset="1" stop-color="#484C89"/></radialGradient></defs></svg>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Layout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1c1c1c;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .profile-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .profile-header {
+            display: flex;
+            align-items: center;
+        }
+        .profile-pic img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            margin-right: 20px;
+        }
+        .profile-info {
+            max-width: 500px;
+        }
+        .profile-info h1 {
+            margin: 0;
+        }
+        .achievements {
+            margin-top: 10px;
+        }
+        .skills-container {
+            margin-top: 30px;
+        }
+        .skills-section {
+            margin-bottom: 20px;
+        }
+        .skills-section h2 {
+            margin-bottom: 10px;
+        }
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            gap: 10px;
+        }
+        .skill {
+            background-color: #444;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-header">
+            <div class="profile-pic">
+                <img src="profile.jpg" alt="Profile Picture">
+            </div>
+            <div class="profile-info">
+                <h1>Luis Naveda</h1>
+                <p>I have over 7 years of extensive experience in website development, specializing in ASP.NET MVC, MERN Stack, and Mobile applications.</p>
+                <div class="achievements">
+                    <p>Achievements: 🏆 GraphQL Expert</p>
+                </div>
+            </div>
+        </div>
 
+        <div class="skills-container">
+            <div class="skills-section">
+                <h2>Languages</h2>
+                <div class="skills-grid">
+                    <div class="skill">C Programming</div>
+                    <div class="skill">C#</div>
+                    <div class="skill">Java</div>
+                    <div class="skill">JavaScript</div>
+                    <div class="skill">HTML</div>
+                    <div class="skill">CSS</div>
+                    <div class="skill">TypeScript</div>
+                    <div class="skill">Python</div>
+                </div>
+            </div>
 
+            <div class="skills-section">
+                <h2>Frontend</h2>
+                <div class="skills-grid">
+                    <div class="skill">Angular</div>
+                    <div class="skill">Babel</div>
+                    <div class="skill">Bulma</div>
+                    <div class="skill">GatsbyJS</div>
+                    <div class="skill">ReactJS</div>
+                    <div class="skill">Redux</div>
+                    <div class="skill">JQuery</div>
+                    <div class="skill">Webpack</div>
+                    <div class="skill">Vue</div>
+                    <div class="skill">NextJS</div>
+                </div>
+            </div>
 
+            <div class="skills-section">
+                <h2>Backend</h2>
+                <div class="skills-grid">
+                    <div class="skill">Node.js</div>
+                    <div class="skill">D3.js</div>
+                    <div class="skill">Express</div>
+                    <div class="skill">Spring IOC</div>
+                    <div class="skill">Spring Boot</div>
+                    <div class="skill">GraphQL</div>
+                    <div class="skill">NestJS</div>
+                    <div class="skill">Nginx</div>
+                </div>
+            </div>
 
-  
+            <div class="skills-section">
+                <h2>Database</h2>
+                <div class="skills-grid">
+                    <div class="skill">PostgreSQL</div>
+                    <div class="skill">Redis</div>
+                    <div class="skill">SQLite</div>
+                    <div class="skill">MongoDB</div>
+                    <div class="skill">MySQL</div>
+                </div>
+            </div>
 
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#F0DB4F" d="M1.408 1.408h125.184v125.185H1.408z"/><path fill="#323330" d="M116.347 96.736c-.917-5.711-4.641-10.508-15.672-14.981-3.832-1.761-8.104-3.022-9.377-5.926-.452-1.69-.512-2.642-.226-3.665.821-3.32 4.784-4.355 7.925-3.403 2.023.678 3.938 2.237 5.093 4.724 5.402-3.498 5.391-3.475 9.163-5.879-1.381-2.141-2.118-3.129-3.022-4.045-3.249-3.629-7.676-5.498-14.756-5.355l-3.688.477c-3.534.893-6.902 2.748-8.877 5.235-5.926 6.724-4.236 18.492 2.975 23.335 7.104 5.332 17.54 6.545 18.873 11.531 1.297 6.104-4.486 8.08-10.234 7.378-4.236-.881-6.592-3.034-9.139-6.949-4.688 2.713-4.688 2.713-9.508 5.485 1.143 2.499 2.344 3.63 4.26 5.795 9.068 9.198 31.76 8.746 35.83-5.176.165-.478 1.261-3.666.38-8.581zM69.462 58.943H57.753l-.048 30.272c0 6.438.333 12.34-.714 14.149-1.713 3.558-6.152 3.117-8.175 2.427-2.059-1.012-3.106-2.451-4.319-4.485-.333-.584-.583-1.036-.667-1.071l-9.52 5.83c1.583 3.249 3.915 6.069 6.902 7.901 4.462 2.678 10.459 3.499 16.731 2.059 4.082-1.189 7.604-3.652 9.448-7.401 2.666-4.915 2.094-10.864 2.07-17.444.06-10.735.001-21.468.001-32.237z"/></svg>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></svg>
- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/></svg>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Frontend</h3><a id="user-content-frontend" class="anchor" aria-label="Permalink: Frontend" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-      <a href="https://angular.com" rel="nofollow">
-  <img alt="angular" src="https://camo.githubusercontent.com/7baac962cd7a7429fe101d482c8c6c6bc5a5626c834dc4264a45ae4c039a04fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67756c6172266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&amp;logo=Angular&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://babeljs.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b2ee1da4bcc6b9dab5fca64ef0f89dd50eee8d7a12841a5562f282a3c15835e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626162656c2d4639444333452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b" alt="babel" data-canonical-src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&amp;logo=babel&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://bulma.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a9dced73783bebef6351ad92b0aeda16bf237780877e174bdd0de1eb3a369618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62756c6d612d3030443142322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62756c6d61266c6f676f436f6c6f723d7768697465" alt="bulma" data-canonical-src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.gatsbyjs.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/aa8723f0a7eb5427fdc1b743616acaf45a529d581a608d0c2e630cb4081f3eaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6761747362796a732d3636333339392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465" alt="gatsby" data-canonical-src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://reactjs.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/3ce1a23cd022f028fcd3db8ee9301f534b4cc7f086e588ed0e6f0aeece2e0763/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163746a732d3631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" alt="react" data-canonical-src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://redux.js.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/32ef393a8e1524610d7dbd19a62a544ee0aae409727932f29709ff02c7475e81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux" data-canonical-src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://jquery.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/78f3f8dc8f1fd05e1309a03014515054f465e36bcfada0ac82082bc5bf6df5ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d3037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="jquery" data-canonical-src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://webpack.js.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ecdcefa02d07d9442f0ae38b8ee92201e553f22c30382007696dafed4ec44b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d3844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b" alt="webpack" data-canonical-src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://vuejs.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/08ff41f215c93f21583e2cf0310d6a83a109defdd03c260098ad1013c9aad621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675652d3030443142322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d7768697465" alt="vue" data-canonical-src="https://img.shields.io/badge/vue-00D1B2.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://nextjs.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/660f29415b65c291ca63f692760e26b68454165024f6fb0e26943430a5672e2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578746a732d3037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="next" data-canonical-src="https://img.shields.io/badge/nextjs-0769AD.svg?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" style="max-width: 100%;">
-</a>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Backend</h3><a id="user-content-backend" class="anchor" aria-label="Permalink: Backend" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://nodejs.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/49d33548e3f9d30d38d422b640f5e09763f4021771324424fc5938482f2b093c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" alt="nodejs" data-canonical-src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/873fc26fd2b50888580207bdc2d1358618bc8ec44f7b3beee21b9fa742bba010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465"><img alt="d3js" src="https://camo.githubusercontent.com/873fc26fd2b50888580207bdc2d1358618bc8ec44f7b3beee21b9fa742bba010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"></a>
-  
-  <a href="https://expressjs.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/0c70e89f06647bd1e0aff1ebb344ad9ed1c785e00dd7962e3e52f4450751df2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="express" data-canonical-src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&amp;logo=express&amp;logoColor=white" style="max-width: 100%;">
-    </a><a href="https://spring.io/" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/d2576b2d08de3355cdfb2c719e869c2577a72f562cb37ac022ec6ec3172833ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67253230494f432d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="spring" data-canonical-src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://spring.io/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/240a1912cc2490df62ce7486b49ebc0b1b7db97b40917d48cb5806dbc376450e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67253230626f6f742d3644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465" alt="spring Boot" data-canonical-src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://graphql.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/de546593ec4b8e10bfd09ae9458b205cd9b51439473f5606d4f6bfcbeccf2c3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6772617068716c2d4531303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" alt="graphql" data-canonical-src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1eebf3bf43bc8f53106e89e9ce941cce0c4e525366e4051bb0e46241c9e5a776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"><img alt="NestJs" src="https://camo.githubusercontent.com/1eebf3bf43bc8f53106e89e9ce941cce0c4e525366e4051bb0e46241c9e5a776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.nginx.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/8dacb4da6bbb3a04e84151a7044e331fb7ffb67880325b0910734c3cd23081d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e67696e782d3030393633392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e67696e78266c6f676f436f6c6f723d7768697465" alt="nginx" data-canonical-src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Database</h3><a id="user-content-database" class="anchor" aria-label="Permalink: Database" href="#database"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://www.postgresql.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/2871c64b4cb3cdfec8b129eeded1c58bce86d85990e555a8c18a75ab1d8f155d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f737467726553514c2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="postgresql" data-canonical-src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://redis.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/c6a2fa4e649fe05b45d0430baa72dfba6315712d9dc082fecc32b2b8a2b8ed9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d4443333832442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" alt="redis" data-canonical-src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.sqlite.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b7a0bc7c55336a78ad5e4edd7407d00b1f85b5a88dc0b0865461fcbc008ca621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d3030334235372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="sqlite" data-canonical-src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.mongodb.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ebd1b545fc0e4c1522ff777f22bc079cb6031ff8923086afc0adb88ad4c6c82b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3437413234382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" data-canonical-src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.mysql.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/4884ca10100fe4be9153fe2537603dda5d2972e409c75109888b669654466223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?&amp;style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Cloud &amp; Hosting:</h3><a id="user-content-cloud--hosting" class="anchor" aria-label="Permalink: Cloud &amp; Hosting:" href="#cloud--hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://azure.microsoft.com/en-in/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/27d91f5991a9d5f1038eb6d0dcc5c9be537554ec636d08a0c21adb64e7e28b90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465" alt="azure" data-canonical-src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://firebase.google.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/f890bf96849c9900d783f5f00ea9f590c38fe2635d61d2f160c79a81c9c9fcad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d4646434132382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="firebase" data-canonical-src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://netlify.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/83877a68231f9f85dd0591ccaab68c26882e1576d17feb5983d445604966368b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d3030433742372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d626c61636b" alt="firebase" data-canonical-src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://heroku.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/11d84850a9d688f52128dc9dba0627289b4ab51fafc27c69be7904549dc73239/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d3433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" alt="heroku" data-canonical-src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Version Control &amp; CI/CD</h3><a id="user-content-version-control--cicd" class="anchor" aria-label="Permalink: Version Control &amp; CI/CD" href="#version-control--cicd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://git-scm.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/aa9bb331753fc1efc466054652ed71fae0dae884848d5a4f189a84bd85791a65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git" data-canonical-src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/creativebull">
-    <img src="https://camo.githubusercontent.com/2e2626d34c9104c2683c907ea46db778359bc29f597716eca72c6e1c89fc4a14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-    <a href="https://www.docker.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/451bdc895cd725971c460c4335fb15afe63975bb262561a9d48206956ae9d6b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="docker" data-canonical-src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.jenkins.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/94ae12d0be6b4b79b63db4158c18678d10669ce66daf5e0217dbbe688abb6ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d4432343933392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" alt="jenkins" data-canonical-src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Preferred IDEs  &amp; Tools :</h3><a id="user-content-preferred-ides---tools-" class="anchor" aria-label="Permalink: Preferred IDEs  &amp; Tools :" href="#preferred-ides---tools-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://eclipse.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a789b8243a847643aeb8d9d1101bd17ab19035edb9a749ab36577f9071320ee1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65636c697073652d3243323235352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465" alt="eclipse IDE" data-canonical-src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&amp;logo=eclipse&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://code.visualstudio.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/96d5c72a93757c116f183ce1152de72a376b250d1de105a472d00b1afdfcaea7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" alt="vsCode" data-canonical-src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://postman.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/424e41a030b5d7dc2761638a986a27ce062d320266a0ec7c5ca8e8f26ba99b53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746d616e2d4646364333372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.virtualbox.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a51a7a90d4d1cd4d908de4841a5bb949c6064a6dd1c07787af0bbd6af0dce921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7669727475616c626f782d3138334136312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7669727475616c626f78266c6f676f436f6c6f723d7768697465" alt="virtualbox" data-canonical-src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://ubuntu.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/06461f0979ddd660d3b47f7e35c1f42a4a5691ed0b81f8b67636056a187379c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7562756e74752d4539353432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu" data-canonical-src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-</article>
+            <div class="skills-section">
+                <h2>Cloud & Hosting</h2>
+                <div class="skills-grid">
+                    <div class="skill">Azure</div>
+                    <div class="skill">Firebase</div>
+                    <div class="skill">Netlify</div>
+                    <div class="skill">Heroku</div>
+                </div>
+            </div>
+
+            <div class="skills-section">
+                <h2>Version Control & CI/CD</h2>
+                <div class="skills-grid">
+                    <div class="skill">Git</div>
+                    <div class="skill">GitHub</div>
+                    <div class="skill">Docker</div>
+                    <div class="skill">Jenkins</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -3,18 +3,14 @@
     <a href="https://nodejs.org/" rel="nofollow">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100%;">
 </a>
-  <a href="https://www.cprogramming.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e69849cb2426cc8bd132640a9abf5748b9615c07c07d23160c8613fa6bc442ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4325323070726f6772616d6d696e672d4138423943432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="c" data-canonical-src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.cprogramming.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/371de9d04db3f3767eb9c1957c86c3fff426260c6de6d608bc477a17df6dcada/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c%23%20-%23239120.svg?&amp;style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.java.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/434fc5374883c2d3cdb019765946dd462049f7b0f9839c65250b02bd725b5a4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" alt="javajdk" data-canonical-src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/aa544451b07d47b4cb843ca2e6e6b69b1a60c332c05f7122a2e13b1c8790ecfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="javascript" data-canonical-src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
-  </a>
+    <a href="https://www.php.net/" rel="nofollow">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="max-width: 100%;">
+</a>
+
+ 
+  
+
+ 
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/7ed83c4bec2c36c46d94f476b9987e48507e3903a828f4fe57637843314bbe80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" data-canonical-src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
   </a>
@@ -24,9 +20,7 @@
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/6e0ad02cf1f34ee17152a1e1016ae9672dc66e6c93a8982c3400ce2e40029b14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d3331373843362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" data-canonical-src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.python.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/4faba64ea752760d4a158ee54f4352f4a6d6492a4b8f49bf6d1c461c86d83e1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3030373339362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="python" data-canonical-src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+  
 </p>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Frontend</h3><a id="user-content-frontend" class="anchor" aria-label="Permalink: Frontend" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">

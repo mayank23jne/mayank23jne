@@ -92,18 +92,15 @@
 </p>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Cloud &amp; Hosting:</h3><a id="user-content-cloud--hosting" class="anchor" aria-label="Permalink: Cloud &amp; Hosting:" href="#cloud--hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
+    <a href="https://aws.amazon.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="max-width: 100%;">
+</a>
+
   <a href="https://azure.microsoft.com/en-in/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/27d91f5991a9d5f1038eb6d0dcc5c9be537554ec636d08a0c21adb64e7e28b90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674617a757265266c6f676f436f6c6f723d7768697465" alt="azure" data-canonical-src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://firebase.google.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/f890bf96849c9900d783f5f00ea9f590c38fe2635d61d2f160c79a81c9c9fcad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d4646434132382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="firebase" data-canonical-src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://netlify.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/83877a68231f9f85dd0591ccaab68c26882e1576d17feb5983d445604966368b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d3030433742372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d626c61636b" alt="firebase" data-canonical-src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" style="max-width: 100%;">
-  </a>
-  <a href="https://heroku.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/11d84850a9d688f52128dc9dba0627289b4ab51fafc27c69be7904549dc73239/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d3433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" alt="heroku" data-canonical-src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+ 
+ 
 </p>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Version Control &amp; CI/CD</h3><a id="user-content-version-control--cicd" class="anchor" aria-label="Permalink: Version Control &amp; CI/CD" href="#version-control--cicd"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">

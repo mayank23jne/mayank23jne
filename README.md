@@ -113,26 +113,7 @@
     <a href="https://www.docker.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/451bdc895cd725971c460c4335fb15afe63975bb262561a9d48206956ae9d6b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="docker" data-canonical-src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.jenkins.io" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/94ae12d0be6b4b79b63db4158c18678d10669ce66daf5e0217dbbe688abb6ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d4432343933392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" alt="jenkins" data-canonical-src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;">
-  </a>
+ 
 </p>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Preferred IDEs  &amp; Tools :</h3><a id="user-content-preferred-ides---tools-" class="anchor" aria-label="Permalink: Preferred IDEs  &amp; Tools :" href="#preferred-ides---tools-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="center" dir="auto">
-  <a href="https://eclipse.org" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a789b8243a847643aeb8d9d1101bd17ab19035edb9a749ab36577f9071320ee1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65636c697073652d3243323235352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465" alt="eclipse IDE" data-canonical-src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&amp;logo=eclipse&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://code.visualstudio.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/96d5c72a93757c116f183ce1152de72a376b250d1de105a472d00b1afdfcaea7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" alt="vsCode" data-canonical-src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://postman.com" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/424e41a030b5d7dc2761638a986a27ce062d320266a0ec7c5ca8e8f26ba99b53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73746d616e2d4646364333372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.virtualbox.org/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a51a7a90d4d1cd4d908de4841a5bb949c6064a6dd1c07787af0bbd6af0dce921/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7669727475616c626f782d3138334136312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7669727475616c626f78266c6f676f436f6c6f723d7768697465" alt="virtualbox" data-canonical-src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://ubuntu.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/06461f0979ddd660d3b47f7e35c1f42a4a5691ed0b81f8b67636056a187379c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7562756e74752d4539353432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="ubuntu" data-canonical-src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
+
 </article>
